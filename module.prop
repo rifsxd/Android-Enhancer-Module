@@ -1,0 +1,7 @@
+id=android_enhancer
+name=Android Enhancer
+version=v1.4.0
+versionCode=15
+author=iamlooper @ github
+description=A revolutionary android optimizer.
+updateJson=https://raw.githubusercontent.com/iamlooper/Android-Enhancer-Module/main/update.json
