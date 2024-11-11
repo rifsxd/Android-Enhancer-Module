@@ -1,8 +1,9 @@
-# v1.4.0
+# v1.4.1
 
-- [Module] Fixed duplicate module issue
-- [Module] Added support for KernelSU and APatch
-- [Module] Misc. changes
+- [Core] BFQ IO Scheduler Preferred
+- [Core] Interactive CPU Governor Preferred
+- [Core] KSM Enabled
+- [Core] OOM Kill Allocating Tasks Enabled
 - [Core] Removed memory lock tweak
 - [Core] Improved /util
 - [Core] Added focused app optimizer
