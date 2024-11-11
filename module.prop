@@ -1,7 +1,6 @@
 id=android_enhancer
-name=Android Enhancer
-version=v1.4.0
-versionCode=15
-author=iamlooper @ github
-description=A revolutionary android optimizer.
-updateJson=https://raw.githubusercontent.com/iamlooper/Android-Enhancer-Module/main/update.json
+name=Android Enhancer tweaked for Realme C35 (RMX3511)
+version=v1.4.1
+versionCode=16
+author=rifsxd @ github
+description=A revolutionary android optimizer specially tweaked for Realme C35 (RMX3511).
